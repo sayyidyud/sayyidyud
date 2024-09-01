@@ -1,4 +1,9 @@
-## yang saya dapatkan saat praktikum metkom ##
+<p align="center">
+  <strong>yang saya dapatkan saat praktikum metkom</strong>
+</p>
+<p allign="center">
+| <strong>yang saya dapatkan saat praktikum metkom</strong>
+</p> 
 ## 
 hal yang saya pelajari saat itu yaitu:
 
